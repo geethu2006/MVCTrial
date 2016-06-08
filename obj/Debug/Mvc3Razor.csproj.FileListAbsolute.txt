@@ -1,0 +1,5 @@
+C:\Users\566624\Desktop\MVC Sample\C#\Mvc3Razor\bin\Mvc3Razor.dll.config
+C:\Users\566624\Desktop\MVC Sample\C#\Mvc3Razor\bin\Mvc3Razor.dll
+C:\Users\566624\Desktop\MVC Sample\C#\Mvc3Razor\bin\Mvc3Razor.pdb
+C:\Users\566624\Desktop\MVC Sample\C#\Mvc3Razor\obj\Debug\Mvc3Razor.dll
+C:\Users\566624\Desktop\MVC Sample\C#\Mvc3Razor\obj\Debug\Mvc3Razor.pdb
